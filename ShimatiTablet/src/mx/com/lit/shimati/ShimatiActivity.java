@@ -1,5 +1,9 @@
 package mx.com.lit.shimati;
 
+/**
+ * @author losorio
+ */
+
 import android.app.Activity;
 import android.os.Bundle;
 
